@@ -108,6 +108,11 @@
 // console.log(katta);
 
 // N7
+// function probel(str) {
+//   return str.includes(" ");
+// }
+
+// console.log(probel("Men Abdulaziz Programmerman"));
 
 // N9;
 // function son(arr) {
