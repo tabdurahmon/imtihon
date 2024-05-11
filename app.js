@@ -102,8 +102,8 @@
 //   return [kichigi, kattasi];
 // }
 
-// let [kichik, katta] = kichikKatta(massiv);
-
+// let katta = kichikKatta(massiv);
+// let kichik = kichikKatta(massiv);
 // console.log(kichik);
 // console.log(katta);
 
